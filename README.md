@@ -11,8 +11,10 @@ just a practice lesson for making cards with flexbox
 
 ### Support Devices
 |Android|iOS|Not Support|
-|:-----:|:-:|:---------:|
-|Yes    |Yes|`iPhone6`|
+|:-----:|:-:|:-----------------:|
+|Yes    |Yes|`iPhone6 and later`|
+|||_InFo_|
+|||Because I don't know iOS web view system|
 
 
 ### Preview Links
