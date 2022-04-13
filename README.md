@@ -16,5 +16,5 @@ just a practice lesson for making cards with flexbox
 
 
 ### Preview Links
-* [GitHub](https://tester-9e.github.io/movie-cards/)
+* [GitHub](https://tester-9e.github.io/movie-cards/) `Not Working`
 * [FreeWHA](https://ppzh0.freevar.com/p/movie-cards/index.html)
